@@ -1,17 +1,17 @@
 package main
 
-import "fmt"
+// import "fmt"
 
-const Pi = 3.14
+// const Pi = 3.14
 
-const (
-	Username = "test_user"
-	Password = "test_pass"
-)
+// const (
+// 	Username = "test_user"
+// 	Password = "test_pass"
+// )
 
-var big int = 9584353259372
+// var big int = 9584353259372
 
-func main() {
-	fmt.Println(Pi, Username, Password)
-	fmt.Println(big - 1)
-}
+// func main() {
+// 	fmt.Println(Pi, Username, Password)
+// 	fmt.Println(big - 1)
+// }
