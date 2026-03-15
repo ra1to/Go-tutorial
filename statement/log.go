@@ -1,9 +1,15 @@
 package main
 
-func main() {
-	logging.debug("")
-	logging.info("")
-	logging.warn("")
-	logging.error("")
-	logging.exception("")
-}
+// import (
+// 	"fmt"
+// 	"log"
+// )
+
+// func main() {
+// 	log.Println("logging!")
+// 	log.Printf("%T %v", "test", "test")
+
+// 	log.Fatalln("error!!")
+
+// 	fmt.Println("ok!")
+// }
